@@ -1,0 +1,3 @@
+[submodule "Hugo/themes/slender"]
+	path = Hugo/themes/slender
+	url = https://github.com/CrimsonRay/slender.git
