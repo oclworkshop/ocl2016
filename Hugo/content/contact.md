@@ -7,5 +7,5 @@ title = "Contact"
 +++
 
 # How to contact
-You can contact us by sending an [email](mailto:ocl2016@easychair.org) or via
+You can contact us by sending an [email](mailto:ocl16@easychair.org) or via
 [twitter](https://twitter.com/oclworkshop)

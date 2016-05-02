@@ -81,12 +81,12 @@ Two types of papers will be considered:
 or position papers.
 * Full papers (between 12 and 16 pages).
 
-in LNCS format. Submissions should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ocl2016).
+in LNCS format. Submissions should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ocl16).
 The program committee will review the submissions (minimum 2 reviews per
 paper, usually 3 reviews) and select papers according to their
 relevance and interest for discussions that will take place at the
 workshop. Accepted papers will be published online in a
-pre-conference edition of [CEUR](http://www.ceur-ws.org).
+post-conference edition of [CEUR](http://www.ceur-ws.org).
 
 ## Important Dates
 
