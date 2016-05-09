@@ -12,7 +12,7 @@ title = "Committee"
 * Jordi Cabot, ICREA - Open University of Catalonia, Spain
 * Adolfo Sánchez-Barbudo Herrera, University of York, UK
 
-## Programme Committee (TBC)
+## Programme Committee
 
 * Thomas Baar, University of Applied Sciences Berlin, Germany
 * Mira Balaban, Ben-Gurion University of the Negev, Israel
@@ -20,7 +20,7 @@ title = "Committee"
 * Domenico Bianculli, University of Luxembourg
 * Dan Chiorean, Babes-Bolyai University, Romania
 * Robert Clariso, Universitat Oberta de Catalunya, Spain
-* Tony Clark, Middlesex University, UK
+* Tony Clark, Sheffield Hallam University, UK
 * Manuel Clavel, IMDEA Software Institute, Spain
 * Birgit Demuth, Technische Universitat Dresden, Germany
 * Marina Egea, Indra Sistemas S.A., Spain
@@ -28,9 +28,9 @@ title = "Committee"
 * Martin Gogolla, University of Bremen, Germany
 * Shahar Maoz, Tel Aviv University, Israel
 * Istvan Rath, Budapest University of Technology and Economics, Hungary
-* Bernhard Rumpe, RWTH Aachen, Germany
-* Massimo Tisi, Mines de Nantes, France
+* Bernhard Rumpe, RWTH Aachen University, Germany
+* Massimo Tisi, Ecole des Mines de Nantes, France
 * Frederic Tuong, Univ. Paris-Sud - IRT SystemX - LRI, France
 * Edward Willink, Willink Transformations Ltd., UK
 * Burkhart Wolff, Univ. Paris-Sud - LRI, France
-* Steffen Zschaler, King's College, UK
+* Steffen Zschaler, King's College London, UK
