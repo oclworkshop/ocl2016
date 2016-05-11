@@ -13,4 +13,4 @@ The important dates you should bear in mind for the workshop are the following:
 
 - Submission of papers:      July 17, 2016
 - Notification:            August 14, 2016
-- Workshop date:         October 2-4, 2016
+- Workshop date:         October 2, 2016
