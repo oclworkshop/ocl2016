@@ -11,6 +11,6 @@ title = "Important dates"
 
 The important dates you should bear in mind for the workshop are the following:
 
-- Submission of papers:      July 24, 2016
+- ~~Submission of papers:      July 24, 2016~~
 - Notification:            August 14, 2016
 - Workshop date:         October 2, 2016

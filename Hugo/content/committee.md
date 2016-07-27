@@ -10,7 +10,7 @@ title = "Committee"
 
 * [Achim D. Brucker](https://www.brucker.ch/), The University of Sheffield, UK
 * [Jordi Cabot](http://jordicabot.com/), ICREA - Open University of Catalonia, Spain
-* [Adolfo Sánchez-Barbudo Herrera](https://www.linkedin.com/in/adolfosbh), University of York, UK
+* [Adolfo Sánchez-Barbudo Herrera](http://adolfosbh.co/), University of York, UK
 
 ## Programme Committee
 
