@@ -10,9 +10,9 @@ The workshop will be run __the 2nd of October__, in the room [__Lamennais 1__](h
 
 * __Session 1: 9:00 - 10:30__
  * __09:00 - 09:15__: Opening.
- * __09:15 - 09:40__:  _On the Support of Qualified Associations in OCL_, by Lars Hamann and Martin Gogolla.
+ * __09:15 - 09:40__: _On the Support of Qualified Associations in OCL_, by Lars Hamann, Martin Gogolla and Nisha Desai.
  * __09:40 - 10:05__: _Extending OCL with Encapsulation, Operator Overloading, and Error Class Mechanisms_, by Vincent Bertram, Bernhard Rumpe and Michael von Wenckstern.
- * __10:05 - 10:30__:  _On the Functional Interpretation of OCL_, by Daniel Calegari and Marcos Viera.
+ * __10:05 - 10:30__: _On the Functional Interpretation of OCL_, by Daniel Calegari and Marcos Viera.
 
 * Coffee Break (10:30 - 11:00)
 
