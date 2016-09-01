@@ -6,27 +6,33 @@ menu = "main"
 title = "Program"
 +++
 
-The workshop program will be announced in due time. Meanwhile, the following list shows the accepted papers that will be presented at OCL Workshop'16.
+The workshop will be run __the 2nd of October__, in the room [__Lamennais 1__](http://models2016.irisa.fr/wp-content/uploads/2015/09/rooms.png). The program is the following:
 
-* _On the Support of Qualified Associations in OCL_
-  * by Lars Hamann and Martin Gogolla.
-* _Extendable Toolchain for Automatic Compatibility Checks_
-  * by Vincent Bertram, Alexander Roth, Bernhard Rumpe and Michael von Wenckstern.
-* _On the Functional Interpretation of OCL_
-  * by Daniel Calegari and Marcos Viera.
-* _Re-Implementing Apache Thrift using Model-Driven Engineering_
-  * by Sina Madani and Dimitris Kolovos.
-* _Models from code, or code as models?_
-  * by Antonio Garcia-Dominguez and Dimitris Kolovos.
-* _Declarative Model Transformation Execution Planning_
-  * by Horacio Hoyos and Dimitris Kolovos.    
-* _Efficient OCL-based Incremental Transformations_
-  * by Frédéric Jouault and Olivier Beaudoux. 
-* _A Comparison of Textual Modeling Languages: OCL, Alloy, FOML_
-  * by Mira Balaban, Phillipa Bennett, Khanh Hoang Doan, Geri Georg, Martin Gogolla, Igal Khitron and Michael Kifer.
-* _Modeling and Reasoning with Multirelations, and their encoding in Alloy_
-  * by Peiyuan Sun, Zinovy Diskin, Michal Antkiewicz and Krzysztof Czarnecki.
-* _Integrating UML/OCL Derived Properties into Validation and Verification Processes_
-  * by Frank Hilken, Marcel Schuster, Karsten Sohr and Martin Gogolla.
-* _Extending OCL with Encapsulation, Operator Overloading, and Error Class Mechanisms_
-  * by Vincent Bertram, Bernhard Rumpe and Michael von Wenckstern.
+* __Session 1: 9:00 - 10:30__
+ * __09:00 - 09:15__: Opening.
+ * __09:15 - 09:40__:  _On the Support of Qualified Associations in OCL_, by Lars Hamann and Martin Gogolla.
+ * __09:40 - 10:05__: _Extending OCL with Encapsulation, Operator Overloading, and Error Class Mechanisms_, by Vincent Bertram, Bernhard Rumpe and Michael von Wenckstern.
+ * __10:05 - 10:30__:  _On the Functional Interpretation of OCL_, by Daniel Calegari and Marcos Viera.
+
+* Coffee Break (10:30 - 11:00)
+
+* __Session 2: 11:00 - 12:30__
+ * __11:00 - 11:15__: _Extendable Toolchain for Automatic Compatibility Checks_, by Vincent Bertram, Alexander Roth, Bernhard Rumpe and Michael von Wenckstern.
+ * __11:15 - 11:40__: _A Comparison of Textual Modeling Languages: OCL, Alloy, FOML_, by Mira Balaban, Phillipa Bennett, Khanh Hoang Doan, Geri Georg, Martin Gogolla, Igal Khitron and Michael Kifer.
+ * __11:40 - 12:05__: _Modeling and Reasoning with Multirelations, and their encoding in Alloy_, by Peiyuan Sun, Zinovy Diskin, Michal Antkiewicz and Krzysztof Czarnecki.
+ * __12:05 - 12:30__: _Integrating UML/OCL Derived Properties into Validation and Verification Processes_, by Frank Hilken, Marcel Schuster, Karsten Sohr and Martin Gogolla.
+
+* Lunch Break (12:30 - 14:00)
+
+* __Session 3: 14:00 - 15:30__
+ * __14:00 - 14:25__: _Declarative Model Transformation Execution Planning_, by Horacio Hoyos and Dimitris Kolovos.
+ * __14:25 - 14:50__: _Efficient OCL-based Incremental Transformations_, by Frédéric Jouault and Olivier Beaudoux.
+ * __14:50 - 15:15__: _Models from code, or code as models?_, by Antonio Garcia-Dominguez and Dimitris Kolovos.
+ * __15:15 - 15:30__: _Re-Implementing Apache Thrift using Model-Driven Engineering_, by Sina Madani and Dimitris Kolovos.
+
+* Coffee Break (15:30 - 16:00)
+
+* __Session 4: 16:00 - 17:30__
+ * __16:00 - 16:30__: Invited Talk: _OCL Specification Progress Report_, by [Edward D. Willink ](https://uk.linkedin.com/in/ed-willink-369726).
+ * __16:30 - 17:20__: Lightning Talks (5 Minutes !!) / Open Session.
+ * __17:20 - 17:30__: Closing.
