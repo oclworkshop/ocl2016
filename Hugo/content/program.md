@@ -10,25 +10,25 @@ The workshop will be run __the 2nd of October__, in the room [__Lamennais 1__](h
 
 * __Session 1: 9:00 - 10:30__
  * __09:00 - 09:15__: Opening.
- * __09:15 - 09:40__: _On the Support of Qualified Associations in OCL_, by Lars Hamann, Martin Gogolla and Nisha Desai. [PDF](/papers/OCL16_paper_8.pdf)
+ * __09:15 - 09:40__: _On the Support of Qualified Associations in OCL_, by Lars Hamann, Martin Gogolla and Nisha Desai. [PDF](/2016/papers/OCL16_paper_8.pdf)
  * __09:40 - 10:05__: _Extending OCL with Encapsulation, Operator Overloading, and Error Class Mechanisms_, by Vincent Bertram, Bernhard Rumpe and Michael von Wenckstern. 
- * __10:05 - 10:30__: _On the Functional Interpretation of OCL_, by Daniel Calegari and Marcos Viera. [PDF](/papers/OCL16_paper_2.pdf)
+ * __10:05 - 10:30__: _On the Functional Interpretation of OCL_, by Daniel Calegari and Marcos Viera. [PDF](/2016/papers/OCL16_paper_2.pdf)
 
 * Coffee Break (10:30 - 11:00)
 
 * __Session 2: 11:00 - 12:30__
  * __11:00 - 11:15__: _Extendable Toolchain for Automatic Compatibility Checks_, by Vincent Bertram, Alexander Roth, Bernhard Rumpe and Michael von Wenckstern.
- * __11:15 - 11:40__: _A Comparison of Textual Modeling Languages: OCL, Alloy, FOML_, by Mira Balaban, Phillipa Bennett, Khanh Hoang Doan, Geri Georg, Martin Gogolla, Igal Khitron and Michael Kifer. [PDF](/papers/OCL16_paper_3.pdf)
- * __11:40 - 12:05__: _Modeling and Reasoning with Multirelations, and their encoding in Alloy_, by Peiyuan Sun, Zinovy Diskin, Michal Antkiewicz and Krzysztof Czarnecki. [PDF](/papers/OCL16_paper_10.pdf)
- * __12:05 - 12:30__: _Integrating UML/OCL Derived Properties into Validation and Verification Processes_, by Frank Hilken, Marcel Schuster, Karsten Sohr and Martin Gogolla. [PDF](/papers/OCL16_paper_5.pdf)
+ * __11:15 - 11:40__: _A Comparison of Textual Modeling Languages: OCL, Alloy, FOML_, by Mira Balaban, Phillipa Bennett, Khanh Hoang Doan, Geri Georg, Martin Gogolla, Igal Khitron and Michael Kifer. [PDF](/2016/papers/OCL16_paper_3.pdf)
+ * __11:40 - 12:05__: _Modeling and Reasoning with Multirelations, and their encoding in Alloy_, by Peiyuan Sun, Zinovy Diskin, Michal Antkiewicz and Krzysztof Czarnecki. [PDF](/2016/papers/OCL16_paper_10.pdf)
+ * __12:05 - 12:30__: _Integrating UML/OCL Derived Properties into Validation and Verification Processes_, by Frank Hilken, Marcel Schuster, Karsten Sohr and Martin Gogolla. [PDF](/2016/papers/OCL16_paper_5.pdf)
 
 * Lunch Break (12:30 - 14:00)
 
 * __Session 3: 14:00 - 15:30__
- * __14:00 - 14:25__: _Declarative Model Transformation Execution Planning_, by Horacio Hoyos and Dimitris Kolovos. [PDF](/papers/OCL16_paper_6.pdf)
- * __14:25 - 14:50__: _Efficient OCL-based Incremental Transformations_, by Frédéric Jouault and Olivier Beaudoux. [PDF](/papers/OCL16_paper_14.pdf)
- * __14:50 - 15:15__: _Models from code, or code as models?_, by Antonio Garcia-Dominguez and Dimitris Kolovos. [PDF](/papers/OCL16_paper_4.pdf)
- * __15:15 - 15:30__: _Re-Implementing Apache Thrift using Model-Driven Engineering_, by Sina Madani and Dimitris Kolovos. [PDF](/papers/OCL16_paper_7.pdf)
+ * __14:00 - 14:25__: _Declarative Model Transformation Execution Planning_, by Horacio Hoyos and Dimitris Kolovos. [PDF](/2016/papers/OCL16_paper_6.pdf)
+ * __14:25 - 14:50__: _Efficient OCL-based Incremental Transformations_, by Frédéric Jouault and Olivier Beaudoux. [PDF](/2016/papers/OCL16_paper_14.pdf)
+ * __14:50 - 15:15__: _Models from code, or code as models?_, by Antonio Garcia-Dominguez and Dimitris Kolovos. [PDF](/2016/papers/OCL16_paper_4.pdf)
+ * __15:15 - 15:30__: _Re-Implementing Apache Thrift using Model-Driven Engineering_, by Sina Madani and Dimitris Kolovos. [PDF](/2016/papers/OCL16_paper_7.pdf)
 
 * Coffee Break (15:30 - 16:00)
 
