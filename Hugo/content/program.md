@@ -34,5 +34,5 @@ The workshop will be run __the 2nd of October__, in the room [__Lamennais 1__](h
 
 * __Session 4: 16:00 - 17:30__
  * __16:00 - 16:30__: Invited Talk: _OCL Specification Progress Report_, by [Edward D. Willink ](https://uk.linkedin.com/in/ed-willink-369726).
- * __16:30 - 17:20__: Lightning Talks (5 Minutes !!) / Open Session.
+ * __16:30 - 17:20__: [Lightning Talks (5 Minutes !!)](/2016/news.html) / Open Session.
  * __17:20 - 17:30__: Closing.
