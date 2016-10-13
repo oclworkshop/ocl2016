@@ -10,7 +10,7 @@ The workshop will be run __the 2nd of October__, in the room [__Lamennais 1__](h
 
 * __Session 1: 9:00 - 10:30__
  * __09:00 - 09:15__: Opening.
- * __09:15 - 09:40__: _On the Support of Qualified Associations in OCL_, by Lars Hamann, Martin Gogolla and Nisha Desai. [PDF](/2016/papers/OCL16_paper_8.pdf)
+ * __09:15 - 09:40__: _On the Support of Qualified Associations in OCL_, by Lars Hamann, Martin Gogolla and Nisha Desai. [PDF](/2016/papers/OCL16_paper_8.pdf) [Slides](http://www.db.informatik.uni-bremen.de/publications/intern/ocl2016-talk-regular-lh-mg-nd.pdf)
  * __09:40 - 10:05__: _Extending OCL with Encapsulation, Operator Overloading, and Error Class Mechanisms_, by Vincent Bertram, Bernhard Rumpe and Michael von Wenckstern. [PDF](/2016/papers/OCL16_paper_12.pdf) 
  * __10:05 - 10:30__: _On the Functional Interpretation of OCL_, by Daniel Calegari and Marcos Viera. [PDF](/2016/papers/OCL16_paper_2.pdf)
 
@@ -33,6 +33,6 @@ The workshop will be run __the 2nd of October__, in the room [__Lamennais 1__](h
 * Coffee Break (15:30 - 16:00)
 
 * __Session 4: 16:00 - 17:30__
- * __16:00 - 16:30__: Invited Talk: _OCL Specification Progress Report_, by [Edward D. Willink ](https://uk.linkedin.com/in/ed-willink-369726).
+ * __16:00 - 16:30__: Invited Talk: _OCL Specification Progress Report_, by [Edward D. Willink ](https://uk.linkedin.com/in/ed-willink-369726) [Slides](http://www.eclipse.org/modeling/mdt/ocl/docs/publications/OCL2016Spec/OCLStatus.odp).
  * __16:30 - 17:20__: [Lightning Talks (5 Minutes !!)](/2016/news.html) / Open Session.
  * __17:20 - 17:30__: Closing.

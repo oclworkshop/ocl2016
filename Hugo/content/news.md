@@ -8,7 +8,17 @@ title = "News"
 +++
 
 # News !!!
-### Received Proposals - 26/09/2016 (last update: 29/09/2016)
+### OCL Workshop Presentations - 13/10/2016 
+
+You can now download the slides of the presentations that took place during the OCL workshop. The presentation corresponding to the papers can be found in the [Program](/2016/program.html) web page. The presentations corresponding to the exciting and fruitful lightning talks are below:
+ 
+* Translating OCL to NoSQL query languages* , by Gwendal Daniel.
+* A Formal Methods Environment for OCL: HOL-OCL 2.0*, by Burkhart Wolff, Achim D. Brucker and Fr&eacute;d&eacute;ric Tuong [Slides](/2016/presentations/2016-10-02-ocl-ws-hol-ocl.pdf)
+* Making OCL Collection Operations More Deterministic with Restricting Equations*, by Martin Gogolla and Frank Hilken [Slides](http://www.db.informatik.uni-bremen.de/publications/intern/ocl2016-talk-lightning-mg-fh.pdf)
+* The importance of Opposites*, by Edward D. Willink [Slides](http://www.eclipse.org/modeling/mdt/ocl/docs/publications/OCL2016Opposites/Opposites.odp)
+* On the need for OCL benchmarks and repository*, by Jordi Cabot and Martin Gogolla [Slides](/2016/presentations/OCLBenchmarks.pdf)
+
+### Received Proposals - 26/09/2016 (last update: 01/10/2016)
 
 First proposals for the Lightning Talks session start to arrive. Please, do not hesitate to send a brief intro of your 5 minutes lightning talk. Below, you have the received proposals up to date:
 
@@ -18,6 +28,10 @@ First proposals for the Lightning Talks session start to arrive. Please, do not 
   * We present HOL-OCL 2.0, a semantically well-founded UML/OCL modelling environment that is centred around a interactive theorem prover for OCL 2.x. While it shares many concepts with HOL-OCL 1.0, it is a complete rewrite that, on the one hand, supports the latest OCL standard (including a four-valued logic) and, on the other hand, brings all the latest features of the Isabelle architecture to OCL (IDE, document generation, advanced proof procedures). The implementation of HOL-0CL 2.0 is based on a reflective approach that can be understood as a formal meta-modelling approach.
 * *Making OCL Collection Operations More Deterministic with Restricting Equations*, by Martin Gogolla and Frank Hilken
   * OCL provides four collection kinds, i.e., sets, bags, ordered sets, and sequences, and offers conversion operations between them: asBag, asOrd(eredSet), asSeq(uence) and asSet. OCL says nearly nothing about the relationship between these operations and leaves much freedom to OCL implementors. The talk wants to raise the question whether it would be desirable to restrict these operations by equations like SET->asBag()->asSeq()=SET->asSeq() or BAG->asSet()->asOrd()=BAG->asOrd().
+* *The importance of Opposites*, by Edward D. Willink
+  * The opposite navigability of all relationships in OCL is often overlooked, yet it is the cornerstone upon which a fully modelled transformation language such as QVTr can be built.
+* *On the need for OCL benchmarks and repository*, by Jordi Cabot and Martin Gogolla.
+  * In this talk we will argue that the OCL community needs a set of well-accepted benchmarks that can help us evaluate, test and compare OCL-related tools and a shared repository where these benchmarks (and many other examples of OCL expressions) are publicly stored for everybody to use and see. We believe this is a key requirement to mature and grow the research around OCL and other textual languages.
 
 ### Lightning Talks (CfP) - 23/09/2016 
 
