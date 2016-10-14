@@ -12,7 +12,7 @@ title = "News"
 
 You can now download the slides of the presentations that took place during the OCL workshop. The presentation corresponding to the papers can be found in the [Program](/2016/program.html) web page. The presentations corresponding to the exciting and fruitful lightning talks are below:
  
-* *Translating OCL to NoSQL query languages*, by Gwendal Daniel.
+* *Translating OCL to NoSQL query languages*, by Gwendal Daniel.  [Slides](http://www.slideshare.net/g__daniel/translating-ocl-to-nosql-query-languages)
 * *A Formal Methods Environment for OCL: HOL-OCL 2.0*, by Burkhart Wolff, Achim D. Brucker and Fr&eacute;d&eacute;ric Tuong [Slides](/2016/presentations/2016-10-02-ocl-ws-hol-ocl.pdf)
 * *Making OCL Collection Operations More Deterministic with Restricting Equations*, by Martin Gogolla and Frank Hilken [Slides](http://www.db.informatik.uni-bremen.de/publications/intern/ocl2016-talk-lightning-mg-fh.pdf)
 * *The importance of Opposites*, by Edward D. Willink [Slides](http://www.eclipse.org/modeling/mdt/ocl/docs/publications/OCL2016Opposites/Opposites.odp)
