@@ -19,7 +19,7 @@ The workshop will be run __the 2nd of October__, in the room [__Lamennais 1__](h
 * __Session 2: 11:00 - 12:30__
  * __11:00 - 11:15__: _Extendable Toolchain for Automatic Compatibility Checks_, by Vincent Bertram, Alexander Roth, Bernhard Rumpe and Michael von Wenckstern. [PDF](/2016/papers/OCL16_paper_11.pdf) 
  * __11:15 - 11:40__: _A Comparison of Textual Modeling Languages: OCL, Alloy, FOML_, by Mira Balaban, Phillipa Bennett, Khanh Hoang Doan, Geri Georg, Martin Gogolla, Igal Khitron and Michael Kifer. [PDF](/2016/papers/OCL16_paper_3.pdf)
- * __11:40 - 12:05__: _Modeling and Reasoning with Multirelations, and their encoding in Alloy_, by Peiyuan Sun, Zinovy Diskin, Michal Antkiewicz and Krzysztof Czarnecki. [PDF](/2016/papers/OCL16_paper_10.pdf)
+ * __11:40 - 12:05__: _Modeling and Reasoning with Multirelations, and their encoding in Alloy_, by Peiyuan Sun, Zinovy Diskin, Michal Antkiewicz and Krzysztof Czarnecki. [PDF](/2016/papers/OCL16_paper_10.pdf) [Slides](/2016/presentations/OCL16Diskin.pdf)
  * __12:05 - 12:30__: _Integrating UML/OCL Derived Properties into Validation and Verification Processes_, by Frank Hilken, Marcel Schuster, Karsten Sohr and Martin Gogolla. [PDF](/2016/papers/OCL16_paper_5.pdf) [Slides](/2016/presentations/ocl16-derived-expressions-hilken.pdf)
 
 * Lunch Break (12:30 - 14:00)
