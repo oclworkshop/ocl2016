@@ -18,15 +18,15 @@ The workshop will be run __the 2nd of October__, in the room [__Lamennais 1__](h
 
 * __Session 2: 11:00 - 12:30__
  * __11:00 - 11:15__: _Extendable Toolchain for Automatic Compatibility Checks_, by Vincent Bertram, Alexander Roth, Bernhard Rumpe and Michael von Wenckstern. [PDF](/2016/papers/OCL16_paper_11.pdf) 
- * __11:15 - 11:40__: _A Comparison of Textual Modeling Languages: OCL, Alloy, FOML_, by Mira Balaban, Phillipa Bennett, Khanh Hoang Doan, Geri Georg, Martin Gogolla, Igal Khitron and Michael Kifer. [PDF](/2016/papers/OCL16_paper_3.pdf)
+ * __11:15 - 11:40__: _A Comparison of Textual Modeling Languages: OCL, Alloy, FOML_, by Mira Balaban, Phillipa Bennett, Khanh Hoang Doan, Geri Georg, Martin Gogolla, Igal Khitron and Michael Kifer. [PDF](/2016/papers/OCL16_paper_3.pdf) [Slides](/2016/presentations/OCL03_Presentation.pdf)
  * __11:40 - 12:05__: _Modeling and Reasoning with Multirelations, and their encoding in Alloy_, by Peiyuan Sun, Zinovy Diskin, Michal Antkiewicz and Krzysztof Czarnecki. [PDF](/2016/papers/OCL16_paper_10.pdf) [Slides](/2016/presentations/OCL16Diskin.pdf)
  * __12:05 - 12:30__: _Integrating UML/OCL Derived Properties into Validation and Verification Processes_, by Frank Hilken, Marcel Schuster, Karsten Sohr and Martin Gogolla. [PDF](/2016/papers/OCL16_paper_5.pdf) [Slides](/2016/presentations/ocl16-derived-expressions-hilken.pdf)
 
 * Lunch Break (12:30 - 14:00)
 
 * __Session 3: 14:00 - 15:30__
- * __14:00 - 14:25__: _Declarative Model Transformation Execution Planning_, by Horacio Hoyos and Dimitris Kolovos. [PDF](/2016/papers/OCL16_paper_6.pdf)
- * __14:25 - 14:50__: _Efficient OCL-based Incremental Transformations_, by Frédéric Jouault and Olivier Beaudoux. [PDF](/2016/papers/OCL16_paper_14.pdf)
+ * __14:00 - 14:25__: _Declarative Model Transformation Execution Planning_, by Horacio Hoyos and Dimitris Kolovos. [PDF](/2016/papers/OCL16_paper_6.pdf) [Slides](http://prezi.com/5adugyh5ixvx/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+ * __14:25 - 14:50__: _Efficient OCL-based Incremental Transformations_, by Frédéric Jouault and Olivier Beaudoux. [PDF](/2016/papers/OCL16_paper_14.pdf) [Slides](/2016/presentations/OCL2016-paper14.pdf)
  * __14:50 - 15:15__: _Models from code, or code as models?_, by Antonio Garcia-Dominguez and Dimitris Kolovos. [PDF](/2016/papers/OCL16_paper_4.pdf) [Slides](http://www.slideshare.net/bluezio/ocl16-slides-models-from-code-or-code-as-a-model)
  * __15:15 - 15:30__: _Re-Implementing Apache Thrift using Model-Driven Engineering_, by Sina Madani and Dimitris Kolovos. [PDF](/2016/papers/OCL16_paper_7.pdf) [Slides](http://www.slideshare.net/dskolovos/reimplementing-apache-thrift-using-modeldriven-engineering-technologies-an-experience-report)
 
